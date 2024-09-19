@@ -1,0 +1,23 @@
+.banner{
+    height: 900px;
+    width: 50px;
+    top: 0;
+    position: sticky;
+    display: inline;
+
+}
+
+table,th, td{
+    border: solid 1px;
+    background-color: gainsboro;
+}
+
+.body{
+    background-color: burlywood;
+}
+
+.texto{
+    position: relative;
+    top: 0%;
+    width: 550px;
+}
